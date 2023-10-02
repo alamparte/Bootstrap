@@ -1,2 +1,2 @@
 # E-commerce with Bootstrap
-It is a simple site web, where I show the artist info, her art and contact
+It is a web site, where I show the artist info, her art and contact
